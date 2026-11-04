@@ -1,0 +1,26 @@
+{
+  "title": "Dark EDM Chord Vault",
+  "study": "dv01",
+  "bpm": 128,
+  "source_audio": "preview/dark-edm-chord-vault-simple-synth-preview.mp3",
+  "source_audio_sha256": "f5cc0a72ed219184934c2cdb3c8a8d5d5261e29debb3d9669305ac31fbd75a02",
+  "source_midi": "midi/dv01-vault-door/dv01-vault-door-combined.mid",
+  "source_midi_sha256": "1ec2714803e8f8d8375d0c9fe6653fb4a60b86d482743f5fb8ff1bb7d0c93416",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "7258c7abb8fd941e4f7e7d7a7e10a0c7caa6891777fbf635c45ba5b3789f26a1",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "a21d3054baf0c7adad6db54bc34164d14f6ff041fbd5d9e33c8f7c0a262861a2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "37ea40312371f2d511629893c7c6899a488089c013b269c11e8a48431da5ca1f",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
