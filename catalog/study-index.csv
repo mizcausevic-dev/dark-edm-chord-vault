@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+dv01,Vault Door,pack-local equal-tempered pitch collection,C,128,4/4,480,32,61440,midi/dv01-vault-door/dv01-vault-door-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dv02,Cold Interval,pack-local equal-tempered pitch collection,D#,128,4/4,480,32,61440,midi/dv02-cold-interval/dv02-cold-interval-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dv03,Low Pressure,pack-local equal-tempered pitch collection,F#,128,4/4,480,32,61440,midi/dv03-low-pressure/dv03-low-pressure-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dv04,After the Drop,pack-local equal-tempered pitch collection,C#,128,4/4,480,32,61440,midi/dv04-after-the-drop/dv04-after-the-drop-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

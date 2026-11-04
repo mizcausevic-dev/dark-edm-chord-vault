@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/dark-edm-chord-vault-simple-synth-preview.mp3",
+  "source_audio_sha256": "f5cc0a72ed219184934c2cdb3c8a8d5d5261e29debb3d9669305ac31fbd75a02",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "1c88cc3157d6741e647025ef057e4718d538fa48320e4ec6e542cbba98c33366",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
