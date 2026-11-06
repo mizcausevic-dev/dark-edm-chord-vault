@@ -62,6 +62,20 @@ def main():
                         if start <= event["start"] < start + END:
                             local = event["start"] - start
                             notes.append((local, min(event["duration"], END-local), event["pitch"], event["velocity"]))
+                if kind == "chords" and args.pack == 'dark-edm-chord-vault':
+                    # Study-specific close, inverted, open and upper-voice voicings.
+                    # Retain the study's chord pitch classes and four-bar harmony.
+                    notes = []
+                    for bar in range(4):
+                        pitches = sorted(study["chords"][(bar + variation + study_index) % 4])
+                        if study_index == 1:
+                            pitches[0] += 12
+                        elif study_index == 2:
+                            pitches[0] -= 12
+                        elif study_index == 3:
+                            pitches[1] += 12
+                        for pitch in sorted(pitches):
+                            notes.append((bar*release.BAR_TICKS + 240, 900, pitch, 72 + 4*((bar+variation)%3)))
                 if not notes:
                     raise ValueError(f"Empty clip: {study['id']} {kind} {variation}")
                 label = "chord-progression" if kind == "chords" else ("bass-hook" if kind == "sub_bass" else "melody")
