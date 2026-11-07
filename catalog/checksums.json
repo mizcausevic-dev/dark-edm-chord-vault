@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/dark-edm-chord-vault-midi.zip",
-      "bytes": 29094,
-      "sha256": "d4fdc1f809e7bfe2942a34f9511be5301111b27104e44a89e41ea2016f10fbc1"
+      "bytes": 30081,
+      "sha256": "9d90f71a38e2235e9b491bccbd7037d274cb8db11eb446b0d60adbd5d18d6776"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9848,
-      "sha256": "741f1f70f3a86911967d2a522e5a5220dc2bd01560d7f6859e0ea43c96def696"
+      "bytes": 10038,
+      "sha256": "01cf24a7f32d07aa1a2af1104802114093eb4f623a07cd2c4738d77cb0f80337"
     },
     {
       "path": "midi/dv01-vault-door/chord_pulse.mid",
@@ -387,6 +387,11 @@
       "sha256": "812cdfc5aa08163f37f6aea24031d4c25e93f8a2a9c45c74d43bc9fa6879ed90"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 790,
       "sha256": "9305217e230292895f7e252a7deea73fb8f4f6c7e27ade0f670bd4ae756151af"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4049,
-      "sha256": "3fa45341de3290b232d6092bf2c22708c1c04db2b46b4ba34495c594950668ab"
+      "bytes": 4164,
+      "sha256": "4187b6b08aafe951944e6d1b08b29ca3cff5473b0cfd8868be38f8ecfa8da958"
     },
     {
       "path": "REVISION.md",
